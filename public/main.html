@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>The opinions</title>
+  <script src="https://cdn.socket.io/4.4.0/socket.io.min.js"
+    integrity="sha384-1fOn6VtTq3PWwfsOrk45LnYcGosJwzMHv+Xh/Jx5303FVOXzEnw0EpLv30mtjmlj"
+    crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <header>Mural de depoimentos</header>
+  <div id="opinions-container">
+    <h3>Perfil do grupo 1</h3>
+
+    
+    <form>
+      <input type="text" id="name-input" placeholder="Digite seu nome">
+      <input type="text" id="opinion-input" placeholder="Digite sua opinião">
+      <button type="button" id="send-button">Enviar</button>
+    </form>
+    <ul id="opinion-list"></ul>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
