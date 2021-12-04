@@ -39,7 +39,7 @@ Socket.io
 
 ------------
 
-#Como usar a aplicação:
+# Como usar a aplicação:
 1. Após iniciar o servidor, abra quantas abas ache necessário no endereço http://localhost:3000. Você verá algo parecido como na foto abaixo:
 ![Servidores rodando](https://github.com/vinigofr/the_opinions_project/blob/master/project_pages.png)
 
