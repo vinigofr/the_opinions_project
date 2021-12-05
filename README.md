@@ -27,7 +27,7 @@ Socket.io
 
 2. Procure uma pasta na qual você queira fazer download do projeto.
 
-3. Digite `git@github.com:vinigofr/the_opinions_project.git` e aguarde o download.
+3. Digite `git clone git@github.com:vinigofr/the_opinions_project.git` e aguarde o download.
 
 4. Ao baixar, digite no terminal `cd the_opinions_project`, você poderá observar os arquivos do projeto.
 
